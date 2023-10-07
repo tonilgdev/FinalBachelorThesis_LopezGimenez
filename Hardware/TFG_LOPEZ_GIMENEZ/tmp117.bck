@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP117
+D - Remote and Local TEMPERATURE SENSOR
+K Temperature sensor remote local i2c
+F http://www.ti.com.cn/cn/lit/ds/symlink/tmp411.pdf
+$ENDCMP
+#
+#End Doc Library
